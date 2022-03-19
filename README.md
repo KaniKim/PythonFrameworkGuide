@@ -166,5 +166,83 @@
 
 <br>
 
+# ETC Document
+## 그 외에 파이썬 프레임 워크에서 자주 쓰는 라이브러리
 
-# 수정 일시 : 2022.03.19 + 09:00
+<br>
+
+- Alembic - version : <b>1.7.7</b>
+- HP : https://alembic.sqlalchemy.org/en/latest/
+- Github : https://github.com/alembic/alembic
+- 설치방법 : pip install alembic
+-  Guidline
+   - https://alembic.sqlalchemy.org/en/latest/tutorial.html
+   - https://blog.neonkid.xyz/257
+   - https://medium.com/@sutharprashant199722/how-to-use-alembic-for-your-database-migrations-d3e93cacf9e8
+
+<br>
+
+- SQLAlchemy - version : <b>1.4.32</b>
+- HP : https://www.sqlalchemy.org
+- Github : https://github.com/sqlalchemy/sqlalchemy
+- 설치방법 : pip install SQLAlchemy
+- Guideline
+  - https://docs.sqlalchemy.org/en/14/tutorial/index.html
+  - https://edykim.com/ko/post/getting-started-with-sqlalchemy-part-1/
+  - https://flask-docs-kr.readthedocs.io/ko/latest/patterns/sqlalchemy.html
+  - https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
+
+<br>
+
+- Psycopg2-binary - version : <b>2.9.3</b>
+- HP : https://www.psycopg.org/docs/
+- Github : https://github.com/psycopg/psycopg2
+- 설치방법 : pip install psycopg2-binary
+- Guideline
+  - https://www.psycopg.org/docs/install.html#quick-install
+  - https://wikidocs.net/7386
+  - https://www.geeksforgeeks.org/how-to-install-psycopg2-binary-module-in-python/
+
+
+<br>
+
+- PyMySQL - version : <b>1.0.2</b>
+- HP : https://pymysql.readthedocs.io/en/latest/
+- Github : https://github.com/PyMySQL/PyMySQL
+- 설치방법 : pip install PyMySQL
+- Guideline
+  - https://www.fun-coding.org/mysql_basic6.html
+  - https://luran.me/300
+
+
+<br>
+
+- uvicorn - version : <b>0.17.6</b>
+- HP : https://www.uvicorn.org
+- Github : https://github.com/encode/uvicorn
+- 설치방법 : pip install uvicorn
+- Guideline
+  - https://chacha95.github.io/2021-01-16-python6/
+  - https://docs.djangoproject.com/ko/4.0/howto/deployment/asgi/uvicorn/
+
+<br>
+
+- gunicorn - version
+- HP : https://gunicorn.org
+- Github : https://github.com/benoitc/gunicorn
+- 설치방법 : pip install gunicorn
+- Guideline
+  - https://leffept.tistory.com/345
+  - http://blog.hwahae.co.kr/all/tech/tech-tech/5567/
+  - https://wikidocs.net/76904
+
+
+<br>
+
+# 수정 일시 : 2022.03.19 + 09:00 
+## - 기초 틀 잡기, Django, FastAPI, Flask 추가
+
+<br>
+
+# 수정 일시 : 2022.03.20 + 09:00
+## - Alembic, Sqlalchemy 등의 라이브러리 추가
