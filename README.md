@@ -124,4 +124,47 @@
 <br>
 <br>
 
+# FastAPI Document
+## FastAPI & FastAPI Third Party Library 
+
+<br>
+
+- FastAPI - version : <b>0.75.0</b>
+- HP : https://fastapi.tiangolo.com
+- Github : https://github.com/tiangolo/fastapi
+- 설치방법 : pip install fastapi, "uvicorn[standard]"
+  
+<br>
+
+- FastAPI Users - version : <b>9.2.5</b>
+- HP : https://fastapi-users.github.io/fastapi-users/
+- Github : https://github.com/fastapi-users/fastapi-users
+- 설치방법
+  - SQLAlchemy : pip install 'fastapi-users[sqlalchemy2]'
+  - MongoDB : pip install 'fastapi-users[mongodb]'
+  - Tortoise ORM : pip install 'fastapi-users[tortoise-orm]'
+  - ormar : pip install 'fastapi-users[ormar]'
+
+<br>
+
+- FastAPI Admin - version : <b>1.0.3</b>
+- HP : https://fastapi-admin.github.io
+- Github : https://github.com/fastapi-admin/fastapi-admin
+- 설치방법 : pip install fastapi-admin
+
+<br>
+
+# FastAPI Guide
+
+## FastAPI 가이드 라인 및 참고 홈페이지
+
+<br>
+
+- https://fastapi.tiangolo.com
+
+- https://www.youtube.com/watch?v=7t2alSnE2-I
+
+<br>
+
+
 # 수정 일시 : 2022.03.19 + 09:00
