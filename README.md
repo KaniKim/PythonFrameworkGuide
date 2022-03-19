@@ -111,7 +111,7 @@
 
 # Flask Guide
 
-## Django 가이드 라인 및 참고 홈페이지
+## Flask 가이드 라인 및 참고 홈페이지
 
 <br>
 
