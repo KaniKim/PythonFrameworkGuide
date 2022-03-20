@@ -56,16 +56,16 @@
 <br>
 
 - django-crispy-form - version : <b> 1.14.0 </b>
-- HP : https://readthedocs.org/projects/django-crispy-forms/
-- Github : https://github.com/django-crispy-forms/django-crispy-forms
-- 설치방법 : pip install django-crispy-forms
+  - HP : https://readthedocs.org/projects/django-crispy-forms/
+  - Github : https://github.com/django-crispy-forms/django-crispy-forms
+  - 설치방법 : pip install django-crispy-forms
 
 <br>
 
-- Django Ninja - version : <b>
-- HP : https://django-ninja.rest-framework.com
-- Github : https://github.com/vitalik/django-ninja
-- 설치방법 : pip install django-ninja
+- Django Ninja - version : <b>0.17.0</b>
+  - HP : https://django-ninja.rest-framework.com
+  - Github : https://github.com/vitalik/django-ninja
+  - 설치방법 : pip install django-ninja
 
 <br>
 <br>
@@ -95,44 +95,44 @@
 <br>
 
 - Flask - version : <b> 2.0.3 </b>
-- HP : https://flask.palletsprojects.com/en/2.0.x/
-- Github : https://github.com/pallets/flask
-- 설치방법 : pip install Flask
+  - HP : https://flask.palletsprojects.com/en/2.0.x/
+  - Github : https://github.com/pallets/flask
+  - 설치방법 : pip install Flask
 
 <br>
 
 - Flask SQLAlchemy - version : <b> 2.5.1 </b>
-- HP : https://flask-sqlalchemy.palletsprojects.com/en/2.x/
-- Github : https://github.com/pallets/flask-sqlalchemy/
-- 설치방법 : pip install -U Flask-SQLAlchemy
+  - HP : https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+  - Github : https://github.com/pallets/flask-sqlalchemy/
+  - 설치방법 : pip install -U Flask-SQLAlchemy
 
 <br>
 
 - Flask-RESTful - version : <b> 0.3.9 </b>
-- HP : https://flask-restful.readthedocs.io/en/latest/
-- Github : http://github.com/twilio/flask-restful
-- 설치방법 : pip install flask-restful
+  - HP : https://flask-restful.readthedocs.io/en/latest/
+  - Github : http://github.com/twilio/flask-restful
+  - 설치방법 : pip install flask-restful
 
 <br>
 
 - Flask-RESTX - version : <b>0.5.1</b>
-- HP : https://flask-restx.readthedocs.io/en/latest/
-- Github : https://github.com/python-restx/flask-restx
-- 설치방법 : pip install flask-restx
+  - HP : https://flask-restx.readthedocs.io/en/latest/
+  - Github : https://github.com/python-restx/flask-restx
+  - 설치방법 : pip install flask-restx
 
 <br>
 
 - Flask-WTF - version : <b>1.0.0</b>
-- HP : https://flask-wtf.readthedocs.io/en/1.0.x/
-- Github : https://github.com/wtforms/flask-wtf
-- 설치방법 : pip install -U Flask-WTF
+  - HP : https://flask-wtf.readthedocs.io/en/1.0.x/
+  - Github : https://github.com/wtforms/flask-wtf
+  - 설치방법 : pip install -U Flask-WTF
 
 <br>
 
 - Flask-Mail - version : <b>0.9.1</b>
-- HP : https://pythonhosted.org/Flask-Mail/
-- Github : http://github.com/mattupstate/flask-mail
-- 설치방법 : pip install Flask-Mail
+  - HP : https://pythonhosted.org/Flask-Mail/
+  - Github : http://github.com/mattupstate/flask-mail
+  - 설치방법 : pip install Flask-Mail
 
 <br>
 <br>
@@ -158,27 +158,27 @@
 <br>
 
 - FastAPI - version : <b>0.75.0</b>
-- HP : https://fastapi.tiangolo.com
-- Github : https://github.com/tiangolo/fastapi
-- 설치방법 : pip install fastapi, "uvicorn[standard]"
+  - HP : https://fastapi.tiangolo.com
+  - Github : https://github.com/tiangolo/fastapi
+  - 설치방법 : pip install fastapi, "uvicorn[standard]"
   
 <br>
 
 - FastAPI Users - version : <b>9.2.5</b>
-- HP : https://fastapi-users.github.io/fastapi-users/
-- Github : https://github.com/fastapi-users/fastapi-users
-- 설치방법
-  - SQLAlchemy : pip install 'fastapi-users[sqlalchemy2]'
-  - MongoDB : pip install 'fastapi-users[mongodb]'
-  - Tortoise ORM : pip install 'fastapi-users[tortoise-orm]'
-  - ormar : pip install 'fastapi-users[ormar]'
+  - HP : https://fastapi-users.github.io/fastapi-users/
+  - Github : https://github.com/fastapi-users/fastapi-users
+  - 설치방법
+    - SQLAlchemy : pip install 'fastapi-users[sqlalchemy2]'
+    - MongoDB : pip install 'fastapi-users[mongodb]'
+    - Tortoise ORM : pip install 'fastapi-users[tortoise-orm]'
+    - ormar : pip install 'fastapi-users[ormar]'
 
 <br>
 
 - FastAPI Admin - version : <b>1.0.3</b>
-- HP : https://fastapi-admin.github.io
-- Github : https://github.com/fastapi-admin/fastapi-admin
-- 설치방법 : pip install fastapi-admin
+  - HP : https://fastapi-admin.github.io
+  - Github : https://github.com/fastapi-admin/fastapi-admin
+  - 설치방법 : pip install fastapi-admin
 
 <br>
 
@@ -200,77 +200,77 @@
 <br>
 
 - Alembic - version : <b>1.7.7</b>
-- HP : https://alembic.sqlalchemy.org/en/latest/
-- Github : https://github.com/alembic/alembic
-- 설치방법 : pip install alembic
--  Guidline
-   - https://alembic.sqlalchemy.org/en/latest/tutorial.html
-   - https://blog.neonkid.xyz/257
-   - https://medium.com/@sutharprashant199722/how-to-use-alembic-for-your-database-migrations-d3e93cacf9e8
+  - HP : https://alembic.sqlalchemy.org/en/latest/
+  - Github : https://github.com/alembic/alembic
+  - 설치방법 : pip install alembic
+  -  Guidline
+     - https://alembic.sqlalchemy.org/en/latest/tutorial.html
+     - https://blog.neonkid.xyz/257
+     - https://medium.com/@sutharprashant199722/how-to-use-alembic-for-your-database-migrations-d3e93cacf9e8
 
 <br>
 
 - SQLAlchemy - version : <b>1.4.32</b>
-- HP : https://www.sqlalchemy.org
-- Github : https://github.com/sqlalchemy/sqlalchemy
-- 설치방법 : pip install SQLAlchemy
-- Guideline
-  - https://docs.sqlalchemy.org/en/14/tutorial/index.html
-  - https://edykim.com/ko/post/getting-started-with-sqlalchemy-part-1/
-  - https://flask-docs-kr.readthedocs.io/ko/latest/patterns/sqlalchemy.html
-  - https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
+  - HP : https://www.sqlalchemy.org
+  - Github : https://github.com/sqlalchemy/sqlalchemy
+  - 설치방법 : pip install SQLAlchemy
+  - Guideline
+    - https://docs.sqlalchemy.org/en/14/tutorial/index.html
+    - https://edykim.com/ko/post/getting-started-with-sqlalchemy-part-1/
+    - https://flask-docs-kr.readthedocs.io/ko/latest/patterns/sqlalchemy.html
+    - https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
 
 <br>
 
 - Psycopg2-binary - version : <b>2.9.3</b>
-- HP : https://www.psycopg.org/docs/
-- Github : https://github.com/psycopg/psycopg2
-- 설치방법 : pip install psycopg2-binary
-- Guideline
-  - https://www.psycopg.org/docs/install.html#quick-install
-  - https://wikidocs.net/7386
-  - https://www.geeksforgeeks.org/how-to-install-psycopg2-binary-module-in-python/
+  - HP : https://www.psycopg.org/docs/
+  - Github : https://github.com/psycopg/psycopg2
+  - 설치방법 : pip install psycopg2-binary
+  - Guideline
+    - https://www.psycopg.org/docs/install.html#quick-install
+    - https://wikidocs.net/7386
+    - https://www.geeksforgeeks.org/how-to-install-psycopg2-binary-module-in-python/
 
 
 <br>
 
 - PyMySQL - version : <b>1.0.2</b>
-- HP : https://pymysql.readthedocs.io/en/latest/
-- Github : https://github.com/PyMySQL/PyMySQL
-- 설치방법 : pip install PyMySQL
-- Guideline
-  - https://www.fun-coding.org/mysql_basic6.html
-  - https://luran.me/300
+  - HP : https://pymysql.readthedocs.io/en/latest/
+  - Github : https://github.com/PyMySQL/PyMySQL
+  - 설치방법 : pip install PyMySQL
+  - Guideline
+    - https://www.fun-coding.org/mysql_basic6.html
+    - https://luran.me/300
 
 <br>
 
 - PyMongo - verison : <b>4.0.2</b>
-- HP : https://pymongo.readthedocs.io/en/stable/
-- Github : https://github.com/mongodb/mongo-python-driver
-- 설치방법 : pip install pymongo
-- Guideline
-  - https://pymongo.readthedocs.io/en/stable/tutorial.html
+  - HP : https://pymongo.readthedocs.io/en/stable/
+  - Github : https://github.com/mongodb/mongo-python-driver
+  - 설치방법 : pip install pymongo
+  - Guideline
+    - https://pymongo.readthedocs.io/en/stable/tutorial.html
 
 <br>
 
 - uvicorn - version : <b>0.17.6</b>
-- HP : https://www.uvicorn.org
-- Github : https://github.com/encode/uvicorn
-- 설치방법 : pip install uvicorn
-- Guideline
-  - https://chacha95.github.io/2021-01-16-python6/
-  - https://docs.djangoproject.com/ko/4.0/howto/deployment/asgi/uvicorn/
+  - HP : https://www.uvicorn.org
+  - Github : https://github.com/encode/uvicorn
+  - 설치방법 : pip install uvicorn
+  - Guideline
+    - https://chacha95.github.io/2021-01-16-python6/
+    - https://docs.djangoproject.com/ko/4.0/howto/deployment/asgi/uvicorn/
 
 <br>
 
 - gunicorn - version
-- HP : https://gunicorn.org
-- Github : https://github.com/benoitc/gunicorn
-- 설치방법 : pip install gunicorn
-- Guideline
-  - https://leffept.tistory.com/345
-  - http://blog.hwahae.co.kr/all/tech/tech-tech/5567/
-  - https://wikidocs.net/76904
+  - HP : https://gunicorn.org
+  - Github : https://github.com/benoitc/gunicorn
+  - 설치방법 : pip install gunicorn
+  - Guideline
+    - https://leffept.tistory.com/345
+    - http://blog.hwahae.co.kr/all/tech/tech-tech/5567/
+    - https://wikidocs.net/76904
 
 
 <br>
