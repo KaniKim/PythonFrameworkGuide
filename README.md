@@ -12,7 +12,7 @@
 
 
 - Django - verison : <b> 4.0.3 </b>
-  - https://www.djangoproject.com
+  - HP : https://www.djangoproject.com
   - Github : https://github.com/django/django
   - 설치방법 : pip install django
 
@@ -45,6 +45,27 @@
   - Github : https://github.com/pennersr/django-allauth
   - 설치방법 : pip install django-allauth
 
+
+<br>
+
+- Django Debug Toolbar - version : <b> 3.2.4 </b>
+- HP : https://readthedocs.org/projects/django-debug-toolbar
+- Github : https://github.com/jazzband/django-debug-toolbar
+- 설치방법 : pip install django-debug-toolbar
+
+<br>
+
+- django-crispy-form - version : <b> 1.14.0 </b>
+- HP : https://readthedocs.org/projects/django-crispy-forms/
+- Github : https://github.com/django-crispy-forms/django-crispy-forms
+- 설치방법 : pip install django-crispy-forms
+
+<br>
+
+- Django Ninja - version : <b>
+- HP : https://django-ninja.rest-framework.com
+- Github : https://github.com/vitalik/django-ninja
+- 설치방법 : pip install django-ninja
 
 <br>
 <br>
@@ -105,6 +126,13 @@
 - HP : https://flask-wtf.readthedocs.io/en/1.0.x/
 - Github : https://github.com/wtforms/flask-wtf
 - 설치방법 : pip install -U Flask-WTF
+
+<br>
+
+- Flask-Mail - version : <b>0.9.1</b>
+- HP : https://pythonhosted.org/Flask-Mail/
+- Github : http://github.com/mattupstate/flask-mail
+- 설치방법 : pip install Flask-Mail
 
 <br>
 <br>
@@ -214,6 +242,14 @@
   - https://www.fun-coding.org/mysql_basic6.html
   - https://luran.me/300
 
+<br>
+
+- PyMongo - verison : <b>4.0.2</b>
+- HP : https://pymongo.readthedocs.io/en/stable/
+- Github : https://github.com/mongodb/mongo-python-driver
+- 설치방법 : pip install pymongo
+- Guideline
+  - https://pymongo.readthedocs.io/en/stable/tutorial.html
 
 <br>
 
