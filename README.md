@@ -49,9 +49,9 @@
 <br>
 
 - Django Debug Toolbar - version : <b> 3.2.4 </b>
-- HP : https://readthedocs.org/projects/django-debug-toolbar
-- Github : https://github.com/jazzband/django-debug-toolbar
-- 설치방법 : pip install django-debug-toolbar
+  - HP : https://readthedocs.org/projects/django-debug-toolbar
+  - Github : https://github.com/jazzband/django-debug-toolbar
+  - 설치방법 : pip install django-debug-toolbar
 
 <br>
 
@@ -66,6 +66,34 @@
   - HP : https://django-ninja.rest-framework.com
   - Github : https://github.com/vitalik/django-ninja
   - 설치방법 : pip install django-ninja
+
+<br>
+
+- django-rest-framework-jwt - version: <b>1.11.0</b>
+  - HP : https://styria-digital.github.io/django-rest-framework-jwt/
+  - Github : https://github.com/Styria-Digital/django-rest-framework-jwt
+  - 설치방법 : pip install drf-jwt
+
+<br>
+
+- Simple JWT - version : <b>5.2.0</b>
+  - HP : https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
+  - Github : https://github.com/jazzband/djangorestframework-simplejwt
+  - 설치방법 : pip install djangorestframework-simplejwt
+
+<br>
+
+- drf-yasg - version : <b>1.21.3</b>
+  - HP : https://drf-yasg.readthedocs.io/en/stable/
+  - Github : https://github.com/axnsan12/drf-yasg
+  - 설치방법 : pip install -U drf-yasg
+
+<br>
+
+- django-simple-histroy : <b>
+  - HP : https://django-simple-history.readthedocs.io/en/latest/
+  - Github : https://github.com/jazzband/django-simple-history
+  - 설치방법 : pip install django-simple-history
 
 <br>
 <br>
@@ -85,6 +113,8 @@
 - https://ssungkang.tistory.com/category/웹프로그래밍/Django
 
 - https://ssungkang.tistory.com/category/웹프로그래밍/DRF
+
+- https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
 
 
 <br>
@@ -282,3 +312,8 @@
 
 # 수정 일시 : 2022.03.20 + 09:00
 ## - Alembic, Sqlalchemy 등의 라이브러리 추가
+
+<br>
+
+# 수정 일시 : 2022.08.25 + 09:00
+## - django library추가, django guide 추가
