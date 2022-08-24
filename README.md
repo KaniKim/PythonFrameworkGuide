@@ -90,7 +90,7 @@
 
 <br>
 
-- django-simple-histroy : <b>
+- django-simple-histroy - version : <b>3.1.1</b>
   - HP : https://django-simple-history.readthedocs.io/en/latest/
   - Github : https://github.com/jazzband/django-simple-history
   - 설치방법 : pip install django-simple-history
