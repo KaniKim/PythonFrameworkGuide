@@ -131,10 +131,10 @@
 
 <br>
 
-- Flask SQLAlchemy - version : <b> 2.5.1 </b>
-  - HP : https://flask-sqlalchemy.palletsprojects.com/en/2.x/
-  - Github : https://github.com/pallets/flask-sqlalchemy/
-  - 설치방법 : pip install -U Flask-SQLAlchemy
+- Flask-Classful - version : <b>9.14.2</b>
+  - HP : https://flask-classful.teracy.org/
+  - Github : https://github.com/teracyhq/flask-classful
+  - 설치방법 : pip install flask-classful
 
 <br>
 
@@ -163,6 +163,62 @@
   - HP : https://pythonhosted.org/Flask-Mail/
   - Github : http://github.com/mattupstate/flask-mail
   - 설치방법 : pip install Flask-Mail
+
+<br>
+
+- Flask-DebugToolbar : <b>0.13.1</b>
+  - HP : https://flask-debugtoolbar.readthedocs.io/en/latest/
+  - Github : https://github.com/flask-debugtoolbar/flask-debugtoolbar
+  - 설치방법 : pip install flask-debugtoolbar
+
+<br>
+
+- Flask-SQLAlchemy - version : <b>2.5.1</b>
+  - HP : https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+  - Github : https://github.com/pallets-eco/flask-sqlalchemy
+  - 설치방법 : pip install -U Flask-SQLAlchemy
+
+<br>
+
+- Flask-Login - version : <b>0.7.0</b>
+  - HP : https://flask-login.readthedocs.io/en/latest/
+  - Github : https://github.com/maxcountryman/flask-login
+  - 설치방법 : pip install flask-login
+
+<br>
+
+- Flask-Limiter - version : <b>2.6.1</b>
+  - HP : https://flask-limiter.readthedocs.io/en/stable/
+  - Github : https://github.com/alisaifee/flask-limiter
+  - 설치방법 : pip install Flask-Limiter
+
+<br>
+
+- Flask-APISpec - version : <b>0.7.0</b>
+  - HP : https://flask-apispec.readthedocs.io/en/latest/
+  - Github : https://github.com/jmcarp/flask-apispec
+  - 설치방법 : pip install -U flask-apispec
+
+<br>
+
+- Flask-JWT-Extended - version : <b>4.4.4</b>
+  - HP : https://flask-jwt-extended.readthedocs.io/en/stable/
+  - Github : https://github.com/vimalloc/flask-jwt-extended
+  - 설치방법 : pip install flask-jwt-extended
+
+<br>
+
+- Flask-User - version : <b>1.0.0</b>
+  - HP : https://flask-user.readthedocs.io/en/latest/
+  - Github : https://github.com/lingthio/Flask-User
+  - 설치방법 : pip install Flask-User
+
+<br>
+
+- Flask-MongoEngine - version : <b>1.0.0</b>
+  - HP : https://docs.mongoengine.org/projects/flask-mongoengine/en/latest/
+  - Github : https://docs.mongoengine.org/projects/flask-mongoengine/en/latest/
+  - 설치방법 : pip install flask-mongoengine
 
 <br>
 <br>
@@ -205,11 +261,46 @@
 
 <br>
 
-- FastAPI Admin - version : <b>1.0.3</b>
+- FastAPI Admin - version : <b>0.1.4</b>
   - HP : https://fastapi-admin.github.io
   - Github : https://github.com/fastapi-admin/fastapi-admin
   - 설치방법 : pip install fastapi-admin
 
+<br>
+
+- FastAPI JWT Auth - version : <b>0.5.0</b>
+  - HP : https://indominusbyte.github.io/fastapi-jwt-auth/
+  - Github : https://github.com/IndominusByte/fastapi-jwt-auth
+  - 설치방법 : pip install fastapi-jwt-auth
+
+<br>
+
+- FastAPI SQLAlchemy- version : <b>0.2.1</b>
+  - Github: https://github.com/mfreeborn/fastapi-sqlalchemy
+  - 설치방법 : pip install fastapi-sqlalchemy
+
+<br>
+
+- FastAPI Code Generator : <b>0.3.5</b>
+  - HP : https://koxudaxi.github.io/fastapi-code-generator/
+  - Github : https://github.com/koxudaxi/fastapi-code-generator
+  - 설치방법 : pip install fastapi-code-generator
+
+<br>
+
+- FastAPI-MAIL : <b>1.1.4</b>
+  - HP : https://sabuhish.github.io/fastapi-mail/getting-started/
+  - Github : https://github.com/sabuhish/fastapi-mail
+  - 설치방법 : pip install fastapi-mail
+
+<br>
+
+- FastAPI CRUD Router : <b>0.8.5</b>
+  - HP : https://fastapi-crudrouter.awtkns.com/
+  - Github : https://github.com/awtkns/fastapi-crudrouter
+  - 설치방법 : pip install fastapi-crudrouter
+
+<br>
 <br>
 
 # FastAPI Guide
@@ -293,7 +384,7 @@
 
 <br>
 
-- gunicorn - version
+- gunicorn - version : <b>20.1.0</b>
   - HP : https://gunicorn.org
   - Github : https://github.com/benoitc/gunicorn
   - 설치방법 : pip install gunicorn
@@ -302,6 +393,29 @@
     - http://blog.hwahae.co.kr/all/tech/tech-tech/5567/
     - https://wikidocs.net/76904
 
+<br>
+
+- starllete - version : <b>0.20.4</b>
+  - HP : https://www.starlette.io/
+  - Github : https://github.com/encode/starlette
+  - 설치방법 : pip3 install starlette
+  - Guideline
+    - https://www.starlette.io/#example
+    - https://anywon.tistory.com/11
+
+<br>
+
+- uWSGI 
+  - HP : https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html
+  - Github : https://github.com/unbit/uwsgi
+  - 설치방법 : pip install uwsgi
+
+<br>
+
+- MongoEngine - version : <b>0.24.2</b>
+  - HP : https://docs.mongoengine.org/
+  - Github : https://github.com/MongoEngine/mongoengine
+  - 설치방법 : python -m pip install -U mongoengine
 
 <br>
 
@@ -316,4 +430,4 @@
 <br>
 
 # 수정 일시 : 2022.08.25 + 09:00
-## - django library추가, django guide 추가
+## - django library추가, django guide 추가, Flask, FastAPI library추가
