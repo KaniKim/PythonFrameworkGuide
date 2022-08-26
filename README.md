@@ -11,61 +11,86 @@
 <br>
 
 
-- Django - verison : <b> 4.0.3 </b>
+- Django - verison : <b> 4.1 </b>
   - HP : https://www.djangoproject.com
   - Github : https://github.com/django/django
   - 설치방법 : pip install django
 
+![](/image//release-roadmap.4cf783b31fbe.png)
+
+장고의 경우 3.2가 LTS, 4.2가 LTS예정입니다.
+
 <br>
 
-- Django Rest Framework - version : <b> 3.12.4 </b>
+- Django Rest Framework - version : <b> 3.13.1 </b>
   - HP : https://www.django-rest-framework.org
   - Github : https://github.com/encode/django-rest-framework
   - 설치방법 : pip install djangorestframework
+  - 지원되는 파이썬 버전 : 3.6, 3.7, 3.8, 3.9, 3.10
+  - 지원되는 장고 버전 : Django(2.2, 3.0, 3.1, 3.2, 4.0)
 
 <br>
 
-- Django Extensions - version : <b> 3.1.5 </b>
+- Django Extensions - version : <b> 3.2.0 </b>
   - HP : https://django-extensions.readthedocs.io/en/latest/
   - Github : https://github.com/django-extensions/django-extensions
   - 설치방법 : pip install django-extensions
+  - 지원되는 장고 버전 : Django(3.2 or later)
+
 
 <br>
 
 - Django Cors Headers - version : <b> 3.11.0 </b>
   - Github : https://github.com/adamchainz/django-cors-headers
   - 설치방법 : pip install django-cors-headers
-
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10, 3.11
+  - 지원되는 장고 버전 : Django(3.2 ~ 4.1)
 
 <br>
 
-- Django AllAuth - version : <b> 0.49.0 </b>
+- CORS에 대한 설명
+
+<br>
+
+![](/image/cors.png)
+
+<br>
+
+- Django AllAuth - version : <b> 0.51.0 </b>
   - HP : https://www.intenct.nl/projects/django-allauth/
   - HP : https://django-allauth.readthedocs.io/en/latest/
   - Github : https://github.com/pennersr/django-allauth
   - 설치방법 : pip install django-allauth
-
+  - 지원되는 파이썬 버전 : 3.5, 3.6, 3.7, 3.8, 3.9, 3.10
+  - 지원되는 장고 버전 : Django(2.0 or later)
 
 <br>
 
-- Django Debug Toolbar - version : <b> 3.2.4 </b>
+- Django Debug Toolbar - version : <b> 3.6.0 </b>
   - HP : https://readthedocs.org/projects/django-debug-toolbar
   - Github : https://github.com/jazzband/django-debug-toolbar
   - 설치방법 : pip install django-debug-toolbar
-
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10
+  - 지원되는 장고 버전 : Django(3.2, 4.0, 4.1)
+  
 <br>
 
 - django-crispy-form - version : <b> 1.14.0 </b>
   - HP : https://readthedocs.org/projects/django-crispy-forms/
   - Github : https://github.com/django-crispy-forms/django-crispy-forms
   - 설치방법 : pip install django-crispy-forms
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10, 3.11
+  - 지원되는 장고 버전 : Django(3.2 or later)
+    - 장고 4.0 이후 버전의 경우 django-crsipy-form 1.13이상이 필요
 
 <br>
 
-- Django Ninja - version : <b>0.17.0</b>
+- Django Ninja - version : <b>0.19.1</b>
   - HP : https://django-ninja.rest-framework.com
   - Github : https://github.com/vitalik/django-ninja
   - 설치방법 : pip install django-ninja
+  - 지원되는 파이썬 버전 : 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
+  - 지원되는 장고 버전 : Djang(2.2 or later) 
 
 <br>
 
@@ -73,6 +98,10 @@
   - HP : https://styria-digital.github.io/django-rest-framework-jwt/
   - Github : https://github.com/Styria-Digital/django-rest-framework-jwt
   - 설치방법 : pip install drf-jwt
+  - 지원되는 파이썬 버전 : 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
+  - 지원되는 장고 버전 : Django(1.11 or later)
+  - 그외 지원되는 버전 : Django REST Framework(3.7 or later)
+
 
 <br>
 
@@ -80,6 +109,10 @@
   - HP : https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
   - Github : https://github.com/jazzband/djangorestframework-simplejwt
   - 설치방법 : pip install djangorestframework-simplejwt
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10
+  - 지원되는 장고 버전 : Django(2.2, 3.1, 3.2, 4.0)
+  - 그외 지원되는 버전 : Django REST Framework (3.10, 3.11, 3.12, 3.13)
+
 
 <br>
 
@@ -87,13 +120,18 @@
   - HP : https://drf-yasg.readthedocs.io/en/stable/
   - Github : https://github.com/axnsan12/drf-yasg
   - 설치방법 : pip install -U drf-yasg
+  - 지원되는 파이썬 버전 : 3.6, 3.7, 3.8, 3.9
+  - 지원되는 장고 버전 : Django(2.2, 3.0, 3.1)
+  - 그외 지원되는 버전 : Django Rest Framework(3.10, 3.11, 3.12)
 
 <br>
 
-- django-simple-histroy - version : <b>3.1.1</b>
+- django-simple-history - version : <b>3.1.1</b>
   - HP : https://django-simple-history.readthedocs.io/en/latest/
   - Github : https://github.com/jazzband/django-simple-history
   - 설치방법 : pip install django-simple-history
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10
+  - 지원되는 장고 버전 : Django(3.2, 4.0, 4.1)
 
 <br>
 <br>
@@ -418,6 +456,7 @@
   - 설치방법 : python -m pip install -U mongoengine
 
 <br>
+<br>
 
 # 수정 일시 : 2022.03.19 + 09:00 
 ## - 기초 틀 잡기, Django, FastAPI, Flask 추가
@@ -431,3 +470,8 @@
 
 # 수정 일시 : 2022.08.25 + 09:00
 ## - django library추가, django guide 추가, Flask, FastAPI library추가
+
+<br>
+
+# 수정 일시 : 2022.08.26 +_09:00
+## - Django 지원 라이브러리들의 지원 파이썬 버전들 추가 틀 새로잡기, 업데이트된 버전 추가
