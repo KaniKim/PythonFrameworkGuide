@@ -281,10 +281,11 @@
 
 <br>
 
-- FastAPI - version : <b>0.8.0</b>
+- FastAPI - version : <b>0.84.0</b>
   - HP : https://fastapi.tiangolo.com
   - Github : https://github.com/tiangolo/fastapi
   - 설치방법 : pip install fastapi, "uvicorn[standard]"
+  - 지원되는 파이썬 버전 : 3.7, 3.8, 3.9, 3.10
   
 <br>
 
